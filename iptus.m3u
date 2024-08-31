@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", DESH TV
+https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", SOMOY TV
+https://mtlivestream.com/asian/ytlive/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", ASIAN TV
+https://mytvbangla.com/0.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", BANGLA VISON
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", DEEPTO TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", JANMOVUMI TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", DURONTO TV
+https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=_BxWr6HGDCLGtUQVaKLyYg&expires=1724147970&user=c28278b7cc41459ea95c1d05df91e3e7
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", MILLION TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", NAN TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", RAJDANI TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", TIME TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", CB24 TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atvcanada.stream/playlist.m3u8
